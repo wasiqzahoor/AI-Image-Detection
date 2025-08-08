@@ -23,4 +23,3 @@ Built with **Python (Flask)** for backend, **HTML/CSS/JS** for frontend, and pow
 
 ---
 
-## 📂 Project Structure
